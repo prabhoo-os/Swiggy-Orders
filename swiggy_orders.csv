@@ -1,0 +1,201 @@
+order_id,order_code,customer_name,email,city,restaurant,cuisine,item,quantity,price,amount,payment_method,order_status,rating,delivery_time,is_member,discount
+1,SWG-BLR-0001,Nikhil Nair,nikhil.nair1@gmail.com,Bengaluru,Biryani Blues,Biryani,Margherita Pizza,2,500,1000,UPI,Delivered,5,22,1,50
+2,SWG-BLR-0002,Sneha Sharma,sneha.sharma2@gmail.com,Bengaluru,Pizza Bella,Italian,Paneer Tikka,1,350,350,Credit Card,Delivered,5,35,0,75
+3,SWG-KOL-0003,Sanjay Bose,sanjay.bose3@gmail.com,Kolkata,Punjab Grill,North Indian,Cheese Garlic Bread,3,250,750,Debit Card,Delivered,4,22,0,50
+4,SWG-KOL-0004,Priya Shah,priya.shah4@gmail.com,Kolkata,Belgian Waffle,Desserts,Chicken Biryani,1,500,500,Cash,Delivered,4,22,1,30
+5,SWG-KOL-0005,Rohan Kapoor,rohan.kapoor5@gmail.com,Kolkata,Belgian Waffle,Desserts,Margherita Pizza,1,120,120,Credit Card,Delivered,2,28,0,50
+6,SWG-CHE-0006,Vikram Kulkarni,vikram.kulkarni6@gmail.com,Chennai,Sweet Truth,Desserts,Chocolate Cake,3,200,600,Debit Card,Delivered,2,45,0,100
+7,SWG-MUM-0007,Aditi Joshi,aditi.joshi7@gmail.com,Mumbai,Juice Junction,Beverages,Chicken Biryani,5,200,1000,Debit Card,Delivered,1,28,0,40
+8,SWG-BLR-0008,Deepak Bose,deepak.bose8@gmail.com,Bengaluru,Little Italy,Italian,Chicken Wings,3,200,600,Cash,Delivered,5,25,0,0
+9,SWG-PUN-0009,Neha Shetty,neha.shetty9@gmail.com,Pune,Hyderabad House,Biryani,Spring Rolls,3,400,1200,Cash,Delivered,3,40,1,0
+10,SWG-KOL-0010,Gaurav Verma,gaurav.verma10@gmail.com,Kolkata,Dosa Plaza,South Indian,Gulab Jamun,2,450,900,Cash,Delivered,4,35,1,75
+11,SWG-PUN-0011,Manish Bose,manish.bose11@gmail.com,Pune,Royal Tandoor,North Indian,Cheese Garlic Bread,1,450,450,Wallet,Delivered,4,22,0,50
+12,SWG-BLR-0012,Divya Kulkarni,divya.kulkarni12@gmail.com,Bengaluru,Hyderabad House,Biryani,Veg Biryani,2,350,700,UPI,Delivered,4,50,1,20
+13,SWG-KOL-0013,Karan Shah,karan.shah13@gmail.com,Kolkata,Chung Wah,Chinese,Veg Biryani,5,120,600,Wallet,Delivered,1,22,0,30
+14,SWG-MUM-0014,Neha Verma,neha.verma14@gmail.com,Mumbai,Dosa Plaza,South Indian,Cheese Garlic Bread,4,150,600,Wallet,Delivered,3,50,1,100
+15,SWG-PUN-0015,Divya Bose,divya.bose15@gmail.com,Pune,Burger Point,Fast Food,Chicken Wings,5,500,2500,Credit Card,Delivered,4,50,0,75
+16,SWG-HYD-0016,Karthik Pandey,karthik.pandey16@gmail.com,Hyderabad,Dosa Plaza,South Indian,Margherita Pizza,1,250,250,UPI,Delivered,3,45,0,0
+17,SWG-MUM-0017,Rohit Verma,rohit.verma17@gmail.com,Mumbai,Dosa Plaza,South Indian,Mango Lassi,3,150,450,Wallet,Delivered,5,28,1,0
+18,SWG-PUN-0018,Aditi Nanda,aditi.nanda18@gmail.com,Pune,Chai Point,Beverages,Veg Biryani,4,280,1120,Credit Card,Delivered,4,32,1,50
+19,SWG-CHE-0019,Arjun Verma,arjun.verma19@gmail.com,Chennai,Dosa Plaza,South Indian,Veg Burger,3,150,450,Credit Card,Delivered,5,38,0,50
+20,SWG-HYD-0020,Divya Bose,divya.bose20@gmail.com,Hyderabad,Pizza Bella,Italian,Cold Coffee,5,150,750,UPI,Delivered,5,18,0,20
+21,SWG-HYD-0021,Divya Menon,divya.menon21@gmail.com,Hyderabad,Chai Point,Beverages,Mango Lassi,3,120,360,Credit Card,Delivered,4,30,1,30
+22,SWG-CHE-0022,Meera Shetty,meera.shetty22@gmail.com,Chennai,Chai Point,Beverages,Margherita Pizza,2,200,400,UPI,Delivered,5,18,0,0
+23,SWG-HYD-0023,Sneha Nanda,sneha.nanda23@gmail.com,Hyderabad,Wow China,Chinese,Paneer Tikka,1,180,180,UPI,Delivered,3,35,0,20
+24,SWG-BLR-0024,Sanjay Kapoor,sanjay.kapoor24@gmail.com,Bengaluru,Madras Cafe,South Indian,Gulab Jamun,5,250,1250,Debit Card,Delivered,4,28,0,50
+25,SWG-HYD-0025,Karan Das,karan.das25@gmail.com,Hyderabad,Sweet Truth,Desserts,Butter Chicken,4,400,1600,Wallet,Cancelled,1,40,0,100
+26,SWG-DEL-0026,Vikram Reddy,vikram.reddy26@gmail.com,Delhi,Dosa Plaza,South Indian,Chocolate Cake,2,180,360,Cash,Delivered,4,45,1,0
+27,SWG-DEL-0027,Shreya Shetty,shreya.shetty27@gmail.com,Delhi,Dosa Plaza,South Indian,Chicken Biryani,1,150,150,Wallet,Delivered,4,45,0,40
+28,SWG-PUN-0028,Amit Bose,amit.bose28@gmail.com,Pune,Juice Junction,Beverages,Chicken Wings,1,150,150,Cash,Delivered,1,18,0,0
+29,SWG-MUM-0029,Nikhil Bose,nikhil.bose29@gmail.com,Mumbai,Brew House,Beverages,Cheese Garlic Bread,3,350,1050,UPI,Delivered,3,40,0,40
+30,SWG-MUM-0030,Sanjay Shetty,sanjay.shetty30@gmail.com,Mumbai,Burger Point,Fast Food,Butter Chicken,2,250,500,UPI,Delivered,3,50,0,0
+31,SWG-KOL-0031,Anjali Shetty,anjali.shetty31@gmail.com,Kolkata,Roll Express,Fast Food,Cheese Garlic Bread,2,200,400,Credit Card,Cancelled,1,35,0,0
+32,SWG-KOL-0032,Aditi Mehta,aditi.mehta32@gmail.com,Kolkata,Roll Express,Fast Food,Mango Lassi,2,220,440,Credit Card,Delivered,2,35,0,75
+33,SWG-KOL-0033,Neha Patil,neha.patil33@gmail.com,Kolkata,Juice Junction,Beverages,Chicken Biryani,2,200,400,UPI,Delivered,4,32,0,0
+34,SWG-DEL-0034,Gaurav Bose,gaurav.bose34@gmail.com,Delhi,Roll Express,Fast Food,Mango Lassi,5,250,1250,UPI,Delivered,4,25,1,30
+35,SWG-PUN-0035,Sneha Nair,sneha.nair35@gmail.com,Pune,Frankie Hub,Fast Food,Cheese Garlic Bread,3,280,840,Wallet,Cancelled,1,35,1,20
+36,SWG-CHE-0036,Vikram Verma,vikram.verma36@gmail.com,Chennai,Burger Point,Fast Food,Paneer Tikka,5,450,2250,Credit Card,Delivered,2,50,0,40
+37,SWG-CHE-0037,Shreya Nair,shreya.nair37@gmail.com,Chennai,Hyderabad House,Biryani,Chicken Biryani,3,250,750,Cash,Delivered,5,25,0,50
+38,SWG-CHE-0038,Shreya Rao,shreya.rao38@gmail.com,Chennai,Chung Wah,Chinese,Spring Rolls,2,280,560,Wallet,Delivered,4,30,0,50
+39,SWG-PUN-0039,Tanvi Nanda,tanvi.nanda39@gmail.com,Pune,Cake Zone,Desserts,Cold Coffee,4,450,1800,Credit Card,Delivered,3,50,0,30
+40,SWG-DEL-0040,Manish Kapoor,manish.kapoor40@gmail.com,Delhi,Dosa Plaza,South Indian,Gulab Jamun,2,200,400,Credit Card,Delivered,1,28,1,0
+41,SWG-CHE-0041,Arjun Menon,arjun.menon41@gmail.com,Chennai,Little Italy,Italian,Cheese Garlic Bread,3,300,900,Cash,Delivered,1,22,1,20
+42,SWG-HYD-0042,Divya Pandey,divya.pandey42@gmail.com,Hyderabad,Royal Tandoor,North Indian,Margherita Pizza,1,300,300,Credit Card,Delivered,5,40,1,40
+43,SWG-PUN-0043,Gaurav Kulkarni,gaurav.kulkarni43@gmail.com,Pune,Roll Express,Fast Food,Cold Coffee,2,500,1000,Cash,Delivered,3,50,0,100
+44,SWG-DEL-0044,Ritika Joshi,ritika.joshi44@gmail.com,Delhi,Chai Point,Beverages,Cheese Garlic Bread,2,200,400,Debit Card,Delivered,5,22,0,0
+45,SWG-CHE-0045,Neha Rao,neha.rao45@gmail.com,Chennai,Chung Wah,Chinese,Margherita Pizza,1,280,280,Cash,Delivered,5,35,0,20
+46,SWG-HYD-0046,Rohan Menon,rohan.menon46@gmail.com,Hyderabad,Royal Tandoor,North Indian,Veg Burger,4,120,480,Debit Card,Delivered,4,35,1,100
+47,SWG-MUM-0047,Tanvi Kapoor,tanvi.kapoor47@gmail.com,Mumbai,Chai Point,Beverages,Chicken Biryani,3,300,900,UPI,Delivered,4,25,1,0
+48,SWG-BLR-0048,Ishita Shetty,ishita.shetty48@gmail.com,Bengaluru,Roll Express,Fast Food,Spring Rolls,1,150,150,Cash,Delivered,5,25,0,30
+49,SWG-MUM-0049,Deepak Mehta,deepak.mehta49@gmail.com,Mumbai,Juice Junction,Beverages,Chocolate Cake,3,220,660,Cash,Delivered,2,38,0,100
+50,SWG-MUM-0050,Sneha Shah,sneha.shah50@gmail.com,Mumbai,Idli House,South Indian,Butter Chicken,1,200,200,Credit Card,Delivered,5,25,0,0
+51,SWG-PUN-0051,Ritika Nair,ritika.nair51@gmail.com,Pune,Pasta Street,Italian,Cheese Garlic Bread,2,250,500,Credit Card,Delivered,2,25,0,0
+52,SWG-DEL-0052,Sanjay Sharma,sanjay.sharma52@gmail.com,Delhi,Frankie Hub,Fast Food,Cheese Garlic Bread,2,150,300,Wallet,Delivered,3,22,0,0
+53,SWG-KOL-0053,Tanvi Nanda,tanvi.nanda53@gmail.com,Kolkata,Delhi Darbar,North Indian,Paneer Tikka,3,450,1350,Debit Card,Delivered,4,18,1,75
+54,SWG-DEL-0054,Priya Menon,priya.menon54@gmail.com,Delhi,Brew House,Beverages,Hakka Noodles,3,180,540,Wallet,Cancelled,2,45,1,75
+55,SWG-KOL-0055,Arjun Menon,arjun.menon55@gmail.com,Kolkata,Paradise Biryani,Biryani,Mango Lassi,2,150,300,Debit Card,Delivered,3,38,1,50
+56,SWG-HYD-0056,Rahul Sharma,rahul.sharma56@gmail.com,Hyderabad,Sweet Truth,Desserts,Cold Coffee,2,250,500,Debit Card,Delivered,5,30,1,0
+57,SWG-BLR-0057,Manish Patil,manish.patil57@gmail.com,Bengaluru,Little Italy,Italian,Veg Burger,4,350,1400,Credit Card,Delivered,5,38,0,0
+58,SWG-HYD-0058,Pooja Joshi,pooja.joshi58@gmail.com,Hyderabad,Pasta Street,Italian,Gulab Jamun,3,300,900,Wallet,Delivered,4,40,0,40
+59,SWG-DEL-0059,Varun Kulkarni,varun.kulkarni59@gmail.com,Delhi,Paradise Biryani,Biryani,Margherita Pizza,1,500,500,Credit Card,Delivered,5,25,0,20
+60,SWG-DEL-0060,Aditi Desai,aditi.desai60@gmail.com,Delhi,Biryani Blues,Biryani,Mango Lassi,2,220,440,Credit Card,Delivered,4,18,1,0
+61,SWG-BLR-0061,Vikram Verma,vikram.verma61@gmail.com,Bengaluru,Hyderabad House,Biryani,Hakka Noodles,4,150,600,UPI,Delivered,5,38,1,40
+62,SWG-DEL-0062,Divya Verma,divya.verma62@gmail.com,Delhi,Chai Point,Beverages,Mango Lassi,1,280,280,Cash,Delivered,1,25,0,30
+63,SWG-BLR-0063,Rohit Joshi,rohit.joshi63@gmail.com,Bengaluru,Roll Express,Fast Food,Spring Rolls,2,350,700,Cash,Delivered,5,30,1,50
+64,SWG-PUN-0064,Pooja Nanda,pooja.nanda64@gmail.com,Pune,Royal Tandoor,North Indian,Cheese Garlic Bread,1,200,200,Credit Card,Delivered,2,25,0,0
+65,SWG-MUM-0065,Kavya Iyer,kavya.iyer65@gmail.com,Mumbai,Delhi Darbar,North Indian,Cold Coffee,4,220,880,UPI,Delivered,4,38,0,20
+66,SWG-KOL-0066,Sowmya Bose,sowmya.bose66@gmail.com,Kolkata,Pasta Street,Italian,Masala Dosa,5,200,1000,Credit Card,Cancelled,1,22,0,0
+67,SWG-PUN-0067,Tanvi Das,tanvi.das67@gmail.com,Pune,Paradise Biryani,Biryani,Masala Dosa,4,500,2000,Debit Card,Delivered,4,40,1,75
+68,SWG-PUN-0068,Arjun Iyer,arjun.iyer68@gmail.com,Pune,Delhi Darbar,North Indian,Cheese Garlic Bread,3,400,1200,Debit Card,Delivered,3,50,1,0
+69,SWG-PUN-0069,Gaurav Bose,gaurav.bose69@gmail.com,Pune,Punjab Grill,North Indian,Cold Coffee,5,450,2250,Cash,Cancelled,1,45,1,75
+70,SWG-DEL-0070,Rohit Desai,rohit.desai70@gmail.com,Delhi,Frankie Hub,Fast Food,Chocolate Cake,1,180,180,Debit Card,Delivered,5,30,1,100
+71,SWG-BLR-0071,Sneha Kulkarni,sneha.kulkarni71@gmail.com,Bengaluru,Cake Zone,Desserts,Chocolate Cake,1,280,280,Wallet,Delivered,1,50,1,75
+72,SWG-MUM-0072,Meera Verma,meera.verma72@gmail.com,Mumbai,Belgian Waffle,Desserts,Veg Biryani,4,450,1800,Cash,Delivered,3,30,1,0
+73,SWG-HYD-0073,Sowmya Das,sowmya.das73@gmail.com,Hyderabad,Chai Point,Beverages,Butter Chicken,2,500,1000,Credit Card,Delivered,1,40,1,0
+74,SWG-HYD-0074,Neha Nair,neha.nair74@gmail.com,Hyderabad,Idli House,South Indian,Mango Lassi,2,300,600,Debit Card,Delivered,4,35,1,75
+75,SWG-PUN-0075,Neha Kulkarni,neha.kulkarni75@gmail.com,Pune,Dragon House,Chinese,Margherita Pizza,5,500,2500,Credit Card,Delivered,4,35,0,100
+76,SWG-DEL-0076,Vikram Sharma,vikram.sharma76@gmail.com,Delhi,Hyderabad House,Biryani,Spring Rolls,4,180,720,Cash,Delivered,4,32,1,100
+77,SWG-DEL-0077,Deepak Kulkarni,deepak.kulkarni77@gmail.com,Delhi,Little Italy,Italian,Margherita Pizza,3,200,600,Cash,Delivered,5,35,1,0
+78,SWG-MUM-0078,Ritika Verma,ritika.verma78@gmail.com,Mumbai,Sweet Truth,Desserts,Mango Lassi,4,150,600,Wallet,Cancelled,1,25,1,0
+79,SWG-KOL-0079,Rohit Desai,rohit.desai79@gmail.com,Kolkata,Paradise Biryani,Biryani,Spring Rolls,3,450,1350,UPI,Delivered,5,35,0,75
+80,SWG-BLR-0080,Nisha Shetty,nisha.shetty80@gmail.com,Bengaluru,Dosa Plaza,South Indian,Gulab Jamun,2,200,400,UPI,Delivered,2,50,0,75
+81,SWG-BLR-0081,Divya Das,divya.das81@gmail.com,Bengaluru,Delhi Darbar,North Indian,Veg Biryani,1,220,220,Debit Card,Delivered,3,28,1,50
+82,SWG-MUM-0082,Sanjay Gupta,sanjay.gupta82@gmail.com,Mumbai,Wow China,Chinese,Spring Rolls,3,400,1200,Credit Card,Delivered,5,25,0,75
+83,SWG-HYD-0083,Nikhil Bose,nikhil.bose83@gmail.com,Hyderabad,Hyderabad House,Biryani,Butter Chicken,4,220,880,Wallet,Delivered,5,32,1,30
+84,SWG-CHE-0084,Nikhil Menon,nikhil.menon84@gmail.com,Chennai,Paradise Biryani,Biryani,Mango Lassi,2,200,400,Cash,Delivered,2,28,1,40
+85,SWG-CHE-0085,Sanjay Das,sanjay.das85@gmail.com,Chennai,Biryani Blues,Biryani,Mango Lassi,3,220,660,UPI,Delivered,1,45,1,30
+86,SWG-PUN-0086,Gaurav Joshi,gaurav.joshi86@gmail.com,Pune,Sweet Truth,Desserts,Gulab Jamun,2,400,800,Debit Card,Delivered,3,50,0,0
+87,SWG-BLR-0087,Pooja Kulkarni,pooja.kulkarni87@gmail.com,Bengaluru,Belgian Waffle,Desserts,Hakka Noodles,1,220,220,Debit Card,Delivered,3,28,0,100
+88,SWG-PUN-0088,Karthik Shah,karthik.shah88@gmail.com,Pune,Biryani Blues,Biryani,Chicken Biryani,4,220,880,Debit Card,Delivered,5,22,0,20
+89,SWG-KOL-0089,Nisha Rao,nisha.rao89@gmail.com,Kolkata,Sweet Truth,Desserts,Veg Biryani,3,120,360,Debit Card,Delivered,5,32,0,50
+90,SWG-BLR-0090,Rohan Shah,rohan.shah90@gmail.com,Bengaluru,Pasta Street,Italian,Butter Chicken,5,250,1250,Wallet,Delivered,2,50,1,30
+91,SWG-BLR-0091,Nikhil Menon,nikhil.menon91@gmail.com,Bengaluru,Wow China,Chinese,Butter Chicken,2,300,600,UPI,Delivered,5,25,1,75
+92,SWG-HYD-0092,Anjali Shetty,anjali.shetty92@gmail.com,Hyderabad,Dragon House,Chinese,Gulab Jamun,1,300,300,Wallet,Delivered,4,18,0,20
+93,SWG-MUM-0093,Arjun Kulkarni,arjun.kulkarni93@gmail.com,Mumbai,Sweet Truth,Desserts,Gulab Jamun,3,350,1050,Debit Card,Delivered,4,28,0,75
+94,SWG-CHE-0094,Rohit Patil,rohit.patil94@gmail.com,Chennai,Punjab Grill,North Indian,Veg Biryani,3,200,600,Credit Card,Delivered,3,22,1,20
+95,SWG-KOL-0095,Sanjay Patil,sanjay.patil95@gmail.com,Kolkata,Pasta Street,Italian,Veg Biryani,2,400,800,UPI,Delivered,3,25,1,30
+96,SWG-BLR-0096,Tanvi Gupta,tanvi.gupta96@gmail.com,Bengaluru,Punjab Grill,North Indian,Butter Chicken,3,200,600,Wallet,Delivered,3,30,0,0
+97,SWG-PUN-0097,Aditi Menon,aditi.menon97@gmail.com,Pune,Idli House,South Indian,Masala Dosa,4,300,1200,Debit Card,Delivered,2,38,1,20
+98,SWG-CHE-0098,Ishita Verma,ishita.verma98@gmail.com,Chennai,Paradise Biryani,Biryani,Gulab Jamun,1,120,120,Cash,Delivered,4,50,0,75
+99,SWG-BLR-0099,Varun Kulkarni,varun.kulkarni99@gmail.com,Bengaluru,Madras Cafe,South Indian,Spring Rolls,2,150,300,Credit Card,Delivered,5,40,0,50
+100,SWG-DEL-0100,Ishita Pandey,ishita.pandey100@gmail.com,Delhi,Brew House,Beverages,Spring Rolls,3,150,450,UPI,Delivered,5,28,1,75
+101,SWG-HYD-0101,Karthik Joshi,karthik.joshi101@gmail.com,Hyderabad,Cake Zone,Desserts,Veg Burger,3,500,1500,UPI,Delivered,4,50,0,40
+102,SWG-BLR-0102,Karan Desai,karan.desai102@gmail.com,Bengaluru,Dosa Plaza,South Indian,Masala Dosa,3,150,450,Debit Card,Delivered,5,18,1,100
+103,SWG-CHE-0103,Kavya Mehta,kavya.mehta103@gmail.com,Chennai,Madras Cafe,South Indian,Chocolate Cake,3,500,1500,UPI,Cancelled,3,30,0,0
+104,SWG-MUM-0104,Sanjay Pandey,sanjay.pandey104@gmail.com,Mumbai,Chung Wah,Chinese,Cold Coffee,2,150,300,Debit Card,Delivered,4,22,0,20
+105,SWG-KOL-0105,Tanvi Menon,tanvi.menon105@gmail.com,Kolkata,Royal Tandoor,North Indian,Chicken Wings,2,120,240,Credit Card,Delivered,4,32,0,0
+106,SWG-PUN-0106,Divya Reddy,divya.reddy106@gmail.com,Pune,Burger Point,Fast Food,Hakka Noodles,1,150,150,Wallet,Delivered,4,38,0,0
+107,SWG-CHE-0107,Anjali Das,anjali.das107@gmail.com,Chennai,Belgian Waffle,Desserts,Spring Rolls,1,120,120,Credit Card,Delivered,5,18,0,30
+108,SWG-HYD-0108,Arjun Menon,arjun.menon108@gmail.com,Hyderabad,Juice Junction,Beverages,Chicken Biryani,2,350,700,UPI,Delivered,2,30,1,75
+109,SWG-BLR-0109,Manish Das,manish.das109@gmail.com,Bengaluru,Pasta Street,Italian,Spring Rolls,1,120,120,Credit Card,Delivered,3,25,0,30
+110,SWG-BLR-0110,Rahul Nair,rahul.nair110@gmail.com,Bengaluru,Brew House,Beverages,Veg Burger,2,180,360,Cash,Delivered,3,40,1,40
+111,SWG-KOL-0111,Rohit Rao,rohit.rao111@gmail.com,Kolkata,Delhi Darbar,North Indian,Butter Chicken,4,150,600,Debit Card,Delivered,5,35,1,30
+112,SWG-BLR-0112,Priya Rao,priya.rao112@gmail.com,Bengaluru,Sweet Truth,Desserts,Veg Biryani,4,500,2000,Debit Card,Delivered,2,28,1,50
+113,SWG-HYD-0113,Manish Iyer,manish.iyer113@gmail.com,Hyderabad,Hyderabad House,Biryani,Chocolate Cake,2,250,500,Credit Card,Delivered,2,40,1,20
+114,SWG-DEL-0114,Karthik Shah,karthik.shah114@gmail.com,Delhi,Wow China,Chinese,Masala Dosa,2,220,440,Credit Card,Delivered,3,50,0,0
+115,SWG-HYD-0115,Gaurav Desai,gaurav.desai115@gmail.com,Hyderabad,Brew House,Beverages,Chicken Wings,3,450,1350,Debit Card,Delivered,2,38,1,30
+116,SWG-PUN-0116,Tanvi Bose,tanvi.bose116@gmail.com,Pune,Delhi Darbar,North Indian,Paneer Tikka,1,220,220,Cash,Delivered,1,32,0,0
+117,SWG-PUN-0117,Nikhil Iyer,nikhil.iyer117@gmail.com,Pune,Frankie Hub,Fast Food,Spring Rolls,5,500,2500,UPI,Delivered,5,50,0,40
+118,SWG-PUN-0118,Ishita Desai,ishita.desai118@gmail.com,Pune,Wow China,Chinese,Cold Coffee,1,250,250,UPI,Delivered,3,18,0,75
+119,SWG-PUN-0119,Arjun Pandey,arjun.pandey119@gmail.com,Pune,Dragon House,Chinese,Chocolate Cake,2,280,560,Cash,Delivered,5,18,0,0
+120,SWG-PUN-0120,Rahul Nair,rahul.nair120@gmail.com,Pune,Frankie Hub,Fast Food,Chicken Biryani,2,250,500,UPI,Delivered,3,32,0,50
+121,SWG-CHE-0121,Karan Kapoor,karan.kapoor121@gmail.com,Chennai,Madras Cafe,South Indian,Paneer Tikka,3,450,1350,Debit Card,Delivered,5,22,1,100
+122,SWG-DEL-0122,Anjali Sharma,anjali.sharma122@gmail.com,Delhi,Biryani Blues,Biryani,Margherita Pizza,3,300,900,Credit Card,Delivered,3,25,0,30
+123,SWG-PUN-0123,Nisha Nair,nisha.nair123@gmail.com,Pune,Royal Tandoor,North Indian,Chocolate Cake,2,400,800,Cash,Delivered,3,45,0,75
+124,SWG-DEL-0124,Sneha Menon,sneha.menon124@gmail.com,Delhi,Pasta Street,Italian,Spring Rolls,2,500,1000,Cash,Delivered,3,30,1,20
+125,SWG-HYD-0125,Anjali Nanda,anjali.nanda125@gmail.com,Hyderabad,Juice Junction,Beverages,Veg Biryani,3,350,1050,Wallet,Delivered,3,28,1,0
+126,SWG-BLR-0126,Nisha Bose,nisha.bose126@gmail.com,Bengaluru,Juice Junction,Beverages,Paneer Tikka,1,500,500,Wallet,Delivered,4,22,0,30
+127,SWG-MUM-0127,Arjun Pandey,arjun.pandey127@gmail.com,Mumbai,Burger Point,Fast Food,Chicken Wings,2,300,600,Debit Card,Cancelled,2,18,1,100
+128,SWG-HYD-0128,Anjali Joshi,anjali.joshi128@gmail.com,Hyderabad,Madras Cafe,South Indian,Margherita Pizza,1,250,250,UPI,Delivered,4,25,0,0
+129,SWG-CHE-0129,Pooja Desai,pooja.desai129@gmail.com,Chennai,Chung Wah,Chinese,Cold Coffee,4,400,1600,UPI,Cancelled,1,30,0,0
+130,SWG-PUN-0130,Kavya Kapoor,kavya.kapoor130@gmail.com,Pune,Burger Point,Fast Food,Veg Biryani,2,200,400,Debit Card,Delivered,3,35,1,75
+131,SWG-KOL-0131,Rohit Nair,rohit.nair131@gmail.com,Kolkata,Brew House,Beverages,Paneer Tikka,1,450,450,Wallet,Delivered,3,30,1,0
+132,SWG-MUM-0132,Ishita Shah,ishita.shah132@gmail.com,Mumbai,Burger Point,Fast Food,Gulab Jamun,1,350,350,Debit Card,Delivered,5,40,1,100
+133,SWG-HYD-0133,Kavya Sharma,kavya.sharma133@gmail.com,Hyderabad,Chai Point,Beverages,Gulab Jamun,3,250,750,Debit Card,Delivered,4,22,0,20
+134,SWG-KOL-0134,Aditi Nair,aditi.nair134@gmail.com,Kolkata,Sweet Truth,Desserts,Butter Chicken,3,350,1050,Debit Card,Delivered,3,50,1,75
+135,SWG-KOL-0135,Nikhil Gupta,nikhil.gupta135@gmail.com,Kolkata,Wow China,Chinese,Cheese Garlic Bread,4,120,480,Debit Card,Delivered,3,18,0,30
+136,SWG-KOL-0136,Manish Rao,manish.rao136@gmail.com,Kolkata,Juice Junction,Beverages,Butter Chicken,2,220,440,Debit Card,Delivered,1,50,0,30
+137,SWG-HYD-0137,Priya Shah,priya.shah137@gmail.com,Hyderabad,Roll Express,Fast Food,Cold Coffee,3,250,750,Credit Card,Delivered,5,32,1,30
+138,SWG-CHE-0138,Tanvi Iyer,tanvi.iyer138@gmail.com,Chennai,Burger Point,Fast Food,Veg Burger,2,350,700,Debit Card,Delivered,2,32,0,30
+139,SWG-CHE-0139,Arjun Kapoor,arjun.kapoor139@gmail.com,Chennai,Burger Point,Fast Food,Cheese Garlic Bread,4,250,1000,Cash,Delivered,4,45,1,30
+140,SWG-BLR-0140,Nikhil Verma,nikhil.verma140@gmail.com,Bengaluru,Frankie Hub,Fast Food,Paneer Tikka,2,120,240,Credit Card,Delivered,5,18,0,0
+141,SWG-DEL-0141,Neha Shah,neha.shah141@gmail.com,Delhi,Roll Express,Fast Food,Butter Chicken,2,450,900,Cash,Cancelled,2,38,0,0
+142,SWG-HYD-0142,Manish Shah,manish.shah142@gmail.com,Hyderabad,Belgian Waffle,Desserts,Chicken Biryani,2,150,300,UPI,Delivered,5,40,1,100
+143,SWG-KOL-0143,Priya Bose,priya.bose143@gmail.com,Kolkata,Hyderabad House,Biryani,Cold Coffee,2,400,800,Debit Card,Delivered,5,28,0,0
+144,SWG-HYD-0144,Nisha Iyer,nisha.iyer144@gmail.com,Hyderabad,Chung Wah,Chinese,Cold Coffee,1,450,450,Debit Card,Delivered,2,40,1,30
+145,SWG-KOL-0145,Karthik Das,karthik.das145@gmail.com,Kolkata,Chung Wah,Chinese,Cheese Garlic Bread,2,250,500,Wallet,Delivered,3,25,0,75
+146,SWG-PUN-0146,Aarav Shah,aarav.shah146@gmail.com,Pune,Cake Zone,Desserts,Veg Biryani,5,180,900,Wallet,Delivered,2,30,1,75
+147,SWG-KOL-0147,Manish Menon,manish.menon147@gmail.com,Kolkata,Roll Express,Fast Food,Masala Dosa,2,250,500,UPI,Delivered,5,32,0,100
+148,SWG-MUM-0148,Nikhil Nanda,nikhil.nanda148@gmail.com,Mumbai,Dragon House,Chinese,Paneer Tikka,1,150,150,Wallet,Delivered,3,25,0,20
+149,SWG-DEL-0149,Anjali Pandey,anjali.pandey149@gmail.com,Delhi,Madras Cafe,South Indian,Margherita Pizza,5,220,1100,Credit Card,Delivered,5,40,0,100
+150,SWG-PUN-0150,Nikhil Gupta,nikhil.gupta150@gmail.com,Pune,Wow China,Chinese,Gulab Jamun,3,400,1200,UPI,Delivered,1,22,0,30
+151,SWG-KOL-0151,Nikhil Patil,nikhil.patil151@gmail.com,Kolkata,Roll Express,Fast Food,Gulab Jamun,1,300,300,Wallet,Delivered,4,38,0,50
+152,SWG-BLR-0152,Pooja Kulkarni,pooja.kulkarni152@gmail.com,Bengaluru,Punjab Grill,North Indian,Cold Coffee,3,300,900,Cash,Delivered,5,25,0,40
+153,SWG-HYD-0153,Aditi Shah,aditi.shah153@gmail.com,Hyderabad,Dragon House,Chinese,Paneer Tikka,5,150,750,Debit Card,Delivered,2,30,1,20
+154,SWG-BLR-0154,Karan Nair,karan.nair154@gmail.com,Bengaluru,Paradise Biryani,Biryani,Mango Lassi,3,200,600,Credit Card,Delivered,5,32,0,0
+155,SWG-HYD-0155,Ritika Pandey,ritika.pandey155@gmail.com,Hyderabad,Juice Junction,Beverages,Cold Coffee,1,150,150,Cash,Delivered,3,28,1,40
+156,SWG-DEL-0156,Sneha Verma,sneha.verma156@gmail.com,Delhi,Brew House,Beverages,Chicken Wings,4,220,880,Wallet,Delivered,2,35,0,30
+157,SWG-KOL-0157,Aditi Shah,aditi.shah157@gmail.com,Kolkata,Frankie Hub,Fast Food,Butter Chicken,3,120,360,Wallet,Delivered,4,40,0,0
+158,SWG-HYD-0158,Deepak Pandey,deepak.pandey158@gmail.com,Hyderabad,Hyderabad House,Biryani,Gulab Jamun,1,180,180,UPI,Delivered,4,40,0,0
+159,SWG-PUN-0159,Amit Kapoor,amit.kapoor159@gmail.com,Pune,Roll Express,Fast Food,Butter Chicken,1,120,120,Credit Card,Delivered,5,40,1,0
+160,SWG-MUM-0160,Ishita Pandey,ishita.pandey160@gmail.com,Mumbai,Belgian Waffle,Desserts,Chocolate Cake,2,280,560,Wallet,Delivered,4,45,0,100
+161,SWG-PUN-0161,Rohan Pandey,rohan.pandey161@gmail.com,Pune,Brew House,Beverages,Spring Rolls,2,300,600,UPI,Delivered,2,35,1,30
+162,SWG-PUN-0162,Tanvi Sharma,tanvi.sharma162@gmail.com,Pune,Juice Junction,Beverages,Gulab Jamun,2,500,1000,UPI,Delivered,3,40,1,50
+163,SWG-BLR-0163,Karan Joshi,karan.joshi163@gmail.com,Bengaluru,Dosa Plaza,South Indian,Butter Chicken,4,250,1000,Cash,Delivered,3,35,1,75
+164,SWG-CHE-0164,Nisha Verma,nisha.verma164@gmail.com,Chennai,Chung Wah,Chinese,Margherita Pizza,5,250,1250,Cash,Delivered,4,25,1,100
+165,SWG-DEL-0165,Rahul Shetty,rahul.shetty165@gmail.com,Delhi,Hyderabad House,Biryani,Cold Coffee,2,200,400,Debit Card,Delivered,3,30,0,20
+166,SWG-DEL-0166,Varun Desai,varun.desai166@gmail.com,Delhi,Juice Junction,Beverages,Paneer Tikka,2,220,440,UPI,Delivered,5,35,1,40
+167,SWG-DEL-0167,Gaurav Reddy,gaurav.reddy167@gmail.com,Delhi,Delhi Darbar,North Indian,Cheese Garlic Bread,1,250,250,Cash,Delivered,5,28,0,100
+168,SWG-CHE-0168,Vikram Shetty,vikram.shetty168@gmail.com,Chennai,Biryani Blues,Biryani,Masala Dosa,2,200,400,UPI,Delivered,5,28,0,0
+169,SWG-DEL-0169,Priya Menon,priya.menon169@gmail.com,Delhi,Chai Point,Beverages,Gulab Jamun,2,120,240,Wallet,Cancelled,1,35,1,75
+170,SWG-KOL-0170,Nikhil Patil,nikhil.patil170@gmail.com,Kolkata,Paradise Biryani,Biryani,Chicken Biryani,1,150,150,Wallet,Delivered,1,25,1,0
+171,SWG-KOL-0171,Sowmya Verma,sowmya.verma171@gmail.com,Kolkata,Frankie Hub,Fast Food,Hakka Noodles,2,120,240,UPI,Delivered,5,22,0,30
+172,SWG-PUN-0172,Arjun Shetty,arjun.shetty172@gmail.com,Pune,Chai Point,Beverages,Mango Lassi,5,300,1500,Debit Card,Delivered,2,32,0,75
+173,SWG-CHE-0173,Nikhil Bose,nikhil.bose173@gmail.com,Chennai,Wow China,Chinese,Cheese Garlic Bread,3,220,660,Wallet,Delivered,3,25,1,50
+174,SWG-PUN-0174,Rohan Menon,rohan.menon174@gmail.com,Pune,Sweet Truth,Desserts,Veg Burger,1,180,180,Credit Card,Delivered,3,18,0,50
+175,SWG-KOL-0175,Neha Kulkarni,neha.kulkarni175@gmail.com,Kolkata,Paradise Biryani,Biryani,Chicken Biryani,1,220,220,Debit Card,Delivered,1,50,0,75
+176,SWG-HYD-0176,Pooja Gupta,pooja.gupta176@gmail.com,Hyderabad,Hyderabad House,Biryani,Masala Dosa,2,250,500,Wallet,Delivered,3,38,0,75
+177,SWG-DEL-0177,Aditi Kapoor,aditi.kapoor177@gmail.com,Delhi,Roll Express,Fast Food,Paneer Tikka,4,350,1400,Credit Card,Delivered,5,22,1,75
+178,SWG-BLR-0178,Manish Shah,manish.shah178@gmail.com,Bengaluru,Dosa Plaza,South Indian,Mango Lassi,5,350,1750,Credit Card,Delivered,3,25,0,100
+179,SWG-CHE-0179,Arjun Nair,arjun.nair179@gmail.com,Chennai,Little Italy,Italian,Spring Rolls,4,150,600,Wallet,Delivered,1,38,0,100
+180,SWG-PUN-0180,Meera Kulkarni,meera.kulkarni180@gmail.com,Pune,Royal Tandoor,North Indian,Cold Coffee,2,500,1000,UPI,Delivered,1,28,1,0
+181,SWG-DEL-0181,Sneha Menon,sneha.menon181@gmail.com,Delhi,Idli House,South Indian,Butter Chicken,1,300,300,UPI,Delivered,3,25,1,40
+182,SWG-HYD-0182,Karthik Rao,karthik.rao182@gmail.com,Hyderabad,Frankie Hub,Fast Food,Masala Dosa,5,180,900,Debit Card,Delivered,5,35,1,0
+183,SWG-KOL-0183,Aditi Joshi,aditi.joshi183@gmail.com,Kolkata,Punjab Grill,North Indian,Chicken Biryani,4,450,1800,Wallet,Delivered,4,28,0,75
+184,SWG-DEL-0184,Anjali Reddy,anjali.reddy184@gmail.com,Delhi,Little Italy,Italian,Veg Biryani,1,120,120,Cash,Delivered,1,28,0,0
+185,SWG-BLR-0185,Priya Kapoor,priya.kapoor185@gmail.com,Bengaluru,Brew House,Beverages,Gulab Jamun,1,200,200,UPI,Delivered,3,40,0,0
+186,SWG-DEL-0186,Karan Pandey,karan.pandey186@gmail.com,Delhi,Little Italy,Italian,Spring Rolls,3,400,1200,Wallet,Delivered,4,28,0,0
+187,SWG-MUM-0187,Shreya Pandey,shreya.pandey187@gmail.com,Mumbai,Frankie Hub,Fast Food,Chicken Biryani,1,350,350,Wallet,Delivered,3,50,1,100
+188,SWG-DEL-0188,Ritika Verma,ritika.verma188@gmail.com,Delhi,Roll Express,Fast Food,Chocolate Cake,3,280,840,Credit Card,Delivered,3,40,1,20
+189,SWG-DEL-0189,Nisha Joshi,nisha.joshi189@gmail.com,Delhi,Dragon House,Chinese,Chicken Wings,1,350,350,Cash,Cancelled,3,40,0,50
+190,SWG-MUM-0190,Neha Bose,neha.bose190@gmail.com,Mumbai,Belgian Waffle,Desserts,Masala Dosa,4,250,1000,UPI,Delivered,3,18,0,50
+191,SWG-PUN-0191,Shreya Kapoor,shreya.kapoor191@gmail.com,Pune,Punjab Grill,North Indian,Margherita Pizza,5,200,1000,Cash,Delivered,4,30,0,20
+192,SWG-CHE-0192,Sowmya Patil,sowmya.patil192@gmail.com,Chennai,Idli House,South Indian,Veg Biryani,4,200,800,Wallet,Delivered,4,28,1,40
+193,SWG-HYD-0193,Gaurav Das,gaurav.das193@gmail.com,Hyderabad,Brew House,Beverages,Gulab Jamun,3,220,660,Debit Card,Delivered,5,38,0,75
+194,SWG-MUM-0194,Gaurav Mehta,gaurav.mehta194@gmail.com,Mumbai,Cake Zone,Desserts,Veg Burger,1,400,400,Credit Card,Delivered,1,30,1,50
+195,SWG-MUM-0195,Pooja Reddy,pooja.reddy195@gmail.com,Mumbai,Sweet Truth,Desserts,Veg Burger,2,300,600,Wallet,Delivered,4,30,1,75
+196,SWG-CHE-0196,Arjun Gupta,arjun.gupta196@gmail.com,Chennai,Sweet Truth,Desserts,Hakka Noodles,5,300,1500,Credit Card,Cancelled,3,50,0,100
+197,SWG-KOL-0197,Sneha Iyer,sneha.iyer197@gmail.com,Kolkata,Punjab Grill,North Indian,Veg Burger,2,450,900,Credit Card,Delivered,3,18,0,100
+198,SWG-BLR-0198,Arjun Shah,arjun.shah198@gmail.com,Bengaluru,Brew House,Beverages,Cold Coffee,1,120,120,Wallet,Delivered,1,18,1,30
+199,SWG-BLR-0199,Kavya Das,kavya.das199@gmail.com,Bengaluru,Burger Point,Fast Food,Masala Dosa,1,350,350,Credit Card,Delivered,5,40,0,40
+200,SWG-BLR-0200,Vikram Rao,vikram.rao200@gmail.com,Bengaluru,Cake Zone,Desserts,Cold Coffee,2,500,1000,Credit Card,Delivered,2,50,0,0
